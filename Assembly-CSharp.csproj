@@ -60,15 +60,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Fireball.cs" />
-    <Compile Include="Assets\Scripts\FPSInput.cs" />
-    <Compile Include="Assets\Scripts\MouseLook.cs" />
-    <Compile Include="Assets\Scripts\PlayerCharacter.cs" />
-    <Compile Include="Assets\Scripts\RayShooter.cs" />
-    <Compile Include="Assets\Scripts\ReactiveTarget.cs" />
-    <Compile Include="Assets\Scripts\SceneController.cs" />
-    <Compile Include="Assets\Scripts\Spin.cs" />
-    <Compile Include="Assets\Scripts\WanderingAI.cs" />
+    <Compile Include="Assets\Memory game assets\Scripts\MemoryCard.cs" />
+    <Compile Include="Assets\Memory game assets\Scripts\SceneController2.cs" />
+    <Compile Include="Assets\Memory game assets\Scripts\UIButton.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\Fireball.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\FPSInput.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\MouseLook.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\PlayerCharacter.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\RayShooter.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\ReactiveTarget.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\SceneController.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\Spin.cs" />
+    <Compile Include="Assets\SampleScene assets\Scripts\WanderingAI.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/АйАйАйтишник/Desktop/Unity/C# Test/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
