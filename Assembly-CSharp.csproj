@@ -63,6 +63,9 @@
     <Compile Include="Assets\Memory game assets\Scripts\MemoryCard.cs" />
     <Compile Include="Assets\Memory game assets\Scripts\SceneController2.cs" />
     <Compile Include="Assets\Memory game assets\Scripts\UIButton.cs" />
+    <Compile Include="Assets\Platformer assets\Scripts\FollowCam.cs" />
+    <Compile Include="Assets\Platformer assets\Scripts\MovingPlatform.cs" />
+    <Compile Include="Assets\Platformer assets\Scripts\PlatformerPlayer.cs" />
     <Compile Include="Assets\SampleScene assets\Scripts\Fireball.cs" />
     <Compile Include="Assets\SampleScene assets\Scripts\FPSInput.cs" />
     <Compile Include="Assets\SampleScene assets\Scripts\MouseLook.cs" />
