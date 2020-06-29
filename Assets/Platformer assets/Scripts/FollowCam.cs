@@ -8,6 +8,6 @@ public class FollowCam : MonoBehaviour
    
     void LateUpdate()
     {
-        transform.position = new Vector3(target.position.x, target.position.y, target.position.z);
+        transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
     }
 }
